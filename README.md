@@ -1,3 +1,6 @@
+# Paper
+https://arxiv.org/pdf/1908.01288.pdf
+
 ### Drug-Drug Interaction Prediction using Knowledge Graph Embeddings & Conv-LSTM Network
 Implementation of our paper titled "Drug-Drug Interaction Prediction Based on Knowledge Graph Embeddings and Convolutional-LSTM Network", proc. of The 10th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics(ACM BCB), 2019.
 
